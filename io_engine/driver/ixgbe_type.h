@@ -51,6 +51,7 @@
 #define IXGBE_DEV_ID_82599_SFP 0x10FB
 #define IXGBE_DEV_ID_82599_XAUI_LOM 0x10FC
 #define IXGBE_DEV_ID_82599_T3_LOM 0x151c
+#define IXGBE_DEV_ID_82599_SFP_SF2       0x154D
 
 /* General Registers */
 #define IXGBE_CTRL      0x00000
